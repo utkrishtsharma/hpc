@@ -1,0 +1,3 @@
+/global/homes/u/utkrisht/hpc/sum/build_O0/CMakeFiles/rebuild_cache.dir
+/global/homes/u/utkrisht/hpc/sum/build_O0/CMakeFiles/edit_cache.dir
+/global/homes/u/utkrisht/hpc/sum/build_O0/CMakeFiles/sum.dir

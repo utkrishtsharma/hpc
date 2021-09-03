@@ -1,0 +1,5 @@
+ALL FOLDERS ARE LAbELED As program name just ,
+1)run the build file .
+2)run the output program.
+
+

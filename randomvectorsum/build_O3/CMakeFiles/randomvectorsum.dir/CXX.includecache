@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/global/homes/u/utkrisht/hpc/randomvectorsum/randomvectorsum.cpp
+iostream
+-
+chrono
+-
+unistd.h
+-
+vector
+-
+bits/stdc++.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -O0 -O0   CMakeFiles/hardcodedsum.dir/hardcodedsum.cpp.o  -o hardcodedsum 
